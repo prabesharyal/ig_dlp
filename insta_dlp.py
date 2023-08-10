@@ -6,6 +6,10 @@ from shutil import get_terminal_size
 from threading import Thread
 from time import sleep
 
+#For Environment Vraiables
+import dotenv
+dotenv.load_dotenv()
+
 class Loader:
     def __init__(self, desc="Loading...", end="Done!", timeout=0.1):
         """
