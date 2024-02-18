@@ -24,7 +24,7 @@ A kinda alternative of [yt-dlp](https://github.com/yt-dlp/yt-dlp) but for instag
 >- Loader Animation credit : [StackOverFlow](https://stackoverflow.com/a/66558182/16370509)
 
 ## What is this mdoule about?<a name="1.1"></a>
-This very simple Instagram Downloader module based on this [RapidAPI](https://rapidapi.com/maatootz/api/instagram-downloader-download-instagram-videos-stories) or [Cobalt}(https://github.com/wukko/cobalt?tab=readme-ov-file) which helps you to download Instagram Posts, Videos and Stories in very simple way using python. You can Integrate this anywhere as you want. My implementation was this [telegram bot](https://github.com/prabesharyal/dalbhatpower_tg_bot). 
+This very simple Instagram Downloader module based on this [RapidAPI](https://rapidapi.com/maatootz/api/instagram-downloader-download-instagram-videos-stories) or [Cobalt](https://github.com/wukko/cobalt?tab=readme-ov-file) which helps you to download Instagram Posts, Videos and Stories in very simple way using python. You can Integrate this anywhere as you want. My implementation was this [telegram bot](https://github.com/prabesharyal/dalbhatpower_tg_bot). 
 
 ## How does this module work?<a name="1.2"></a>
 > **This module works in various steps as :**
